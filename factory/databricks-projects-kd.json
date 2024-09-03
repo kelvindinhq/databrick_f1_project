@@ -1,0 +1,9 @@
+{
+	"name": "databricks-projects-kd",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2d16b298-e104-4111-bb38-046e03ca0b65",
+		"tenantId": "7a6073f4-aa8e-4f8f-883d-1c819806f223"
+	}
+}
